@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.container-cards{
+    display: flex
+}
+/*
+.col-sm-12 .cards-grandes{
+    margin: 1.5em;
+}*/
+
+.imagenInicio{
+    width: 70%;
+    margin-bottom: 2em;
+}
+
+.jumbotron {
+    background-color: #3fa59d;
+    color: white;
+    border-radius: 0%;
+    margin-bottom: 0;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #008080;
+    border-color: #fdfdfd;
+}
+
+.btn-danger{
+    border-color: #fdfdfd;
+}
+
+.card-body{
+    flex: 0;
+}
+
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #3fa59d;
+    border-color: #3fa59d;
+}
+
+.kmargin-botton{
+    margin-bottom: 2em;
+}
+
+.expositores{
+    background-color: #3fa59d;
+    padding: 1em;
+    color: #fff;
+    bottom: 0;
+}
+
+.imagenBanderas{
+    width: 40%;
+    margin: 1em;
+}
